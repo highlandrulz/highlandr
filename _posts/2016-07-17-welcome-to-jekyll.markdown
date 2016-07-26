@@ -1,25 +1,33 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2016-07-17 15:22:42 +0100
-categories: Jekyll
+title:  "What happened to Operations?"
+date:   2016-07-26 15:22:42 +0100
+categories: platform
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+There is a lot of talk these days about "NoOps" and the demise of the infrastructure and 
+operations teams. 
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+To an extent this may be true but it is important to remember that if you in in the business 
+of providing a service (and we all are), knowing the status of that service and ensuring it is
+running optimally is still necessary. 
+
+Neither infrastructure or Operations is going away, however their function may just be fulfilled in a
+different manner. 
 <!--more-->
-Jekyll also offers powerful support for code snippets:
+In a rush to divest themselves of "legacy: functions in favour of new "Agile" practices, we are
+seeing companies misstep into situations where they can no longer support their traditional business
+processes and wind up picking up the pieces. 
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+One approach to help with this is to take a more strutured approach to change. Work to understand what it
+currently takes to deliver and support the buisness services you provide before making changes. This also
+provides the opportunity to be more targetted in the areas you look to change, handling the low hanging fruit 
+first. 
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Brining the right tooling to bear on those critical points wll in turn free up resource time (people and 
+technology) to help target the things you truly want to work on. Don't forget though that tools require care
+and feeding. Cloud based SaaS services can allieviate some of this but keep in mind that you still need to have 
+people who understand your end to end service delivery. 
 
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Your infrastructure isn't going away, it just looks different. Parts of it are very likely not run by you
+anymore. If anything, it just got a whole lot more complicated. 
+

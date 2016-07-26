@@ -88,8 +88,8 @@
 }
 
 .sidebar-nav li {
-    text-indent: 20px;
-    line-height: 40px;
+    line-height: 30px;
+    padding-left: 20px;
 }
 
 .sidebar-nav li a {
