@@ -1,0 +1,35 @@
+---
+layout: default
+title: Blog
+---
+
+<section class="bg-dark">
+  <div class="text-center">
+    <h1>Blog</h1>
+  </div>
+</section>
+
+<div class="home">
+
+  <h2 class="page-heading">Posts</h2>
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-content" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      {% if post.content contains '<!--more-->' %}
+          {{ post.content | split:'<!--more-->' | first }}
+      {% else %}
+          {{ post.content }}
+      {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe" style="padding-top:50px">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>
