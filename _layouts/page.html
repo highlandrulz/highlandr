@@ -1,6 +1,17 @@
 ---
 layout: default
 ---
+
+<script>
+function ToggleSidebar() {
+    if ( $("#wrapper").hasClass( "toggled" ) ) {
+        $("#wrapper").removeClass("toggled");
+    }else {
+        $("#wrapper").addClass("toggled");
+    }
+} 
+</script>
+
 <section class="bg-dark">
   <div class="text-center">
     <h1> {{ page.title }} </h1>
@@ -10,6 +21,9 @@ layout: default
 <div id="wrapper">
         <div id="sidebar-wrapper">
             <ul class="sidebar-nav">
+              <li>
+                  <button onclick="ToggleSidebar()">Hide Menu</button>
+              </li>
                 <li class="sidebar-brand">
                     <a href="/blog.html">
                         List of Blog Posts
@@ -34,15 +48,10 @@ layout: default
               <div class="container-fluid">
                  <div class="row">
                     <div class="col-lg-12">
-<script>
-if ( $("#wrapper").hasClass( "toggled" ) ) {
-<style margin-right="0px">
-  {{ content }}
-</style>
-}else {
-  {{ content }}
-} 
-</script>
+
+<p style="padding-bottom:10px">
+    <button onclick="ToggleSidebar()">Show Menu</button><br>
+</p>
             {{ content }}
                     </div>
                  </div>

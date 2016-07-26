@@ -10,17 +10,17 @@ title: Blog
 </section>
 
 <div class="home">
-
-  <h2 class="page-heading">Posts</h2>
-
+<p>
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
+        <p style="padding-top:40px">
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
+        </p>
         <h2>
           <a class="post-content" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
+   
       {% if post.content contains '<!--more-->' %}
           {{ post.content | split:'<!--more-->' | first }}
       {% else %}
@@ -29,7 +29,7 @@ title: Blog
       </li>
     {% endfor %}
   </ul>
-
+</p>
   <p class="rss-subscribe" style="padding-top:50px">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>
