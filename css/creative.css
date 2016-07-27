@@ -36,12 +36,11 @@ a:focus {
     color: #eb3812;
 }
 
-#services .container .row .col-lg-12.text-center .set-font {
+.set-font {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
   line-height: 1.42857143;
   color: #333;
-  background-color: #fff;
 }
 
 h1,

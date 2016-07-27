@@ -20,12 +20,13 @@ title: Blog
         <h2>
           <a class="post-content" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
-   
+   <div class="set-font">
       {% if post.content contains '<!--more-->' %}
           {{ post.content | split:'<!--more-->' | first }}
       {% else %}
           {{ post.content }}
       {% endif %}
+    </div>
       </li>
     {% endfor %}
   </ul>
