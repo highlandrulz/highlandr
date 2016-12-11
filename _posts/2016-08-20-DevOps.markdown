@@ -1,0 +1,52 @@
+---
+layout: post
+title:  "DevOps and oganisational transformation"
+date:   2016-08-20 15:30:42 +0100
+categories: platform
+---
+DevOps is not just about automating your deployment and testing. I have a lot of conversations
+that result in a mindset of "we're doing DevOps, we have one button deploys into production". This is 
+awesome, and certainly a good step but it is still not the complete picture.
+<!--more-->
+If you have one button deploys to production but still require a separate team just to push the button, 
+it is likely that the more complicated activities around cultural change have been left behind in the 
+rush to automate. Other indicators are an extended period to start new projects and lengthy QA cycles
+to get builds "production ready". 
+
+## The problem
+Cultural and organisational change takes far longer than technical change and, typically, is far harder 
+to achieve. In the process of undergoing an organisational change you will find your self with a number
+of tough decisions with regards who is going to be coming on the journey with you. Ideally everybody is
+going to be onboard and willing to participate as you change how the organisation operates but the 
+reality is that not everybody will make the transition. 
+
+There is an inherent risk here as the staff that do leave may be taking critcal information and 
+organisation knowledge with them. 
+
+So how do we go about initiating a change without slowing down our business and effectively achieving
+the opposite result to the one we are looking for?
+
+## Tactics
+The straightforward answer is that you can't. At least not entirely. No matter how hard you try you will
+always find yourself disenfranchising some people as you go through change. The goal should be to bring
+as many of the key people to the new operational state as possible.
+
+One approach is to start by driving a desire for continuous improvement into the organisation. This can 
+be done through training, group activities, rewards and recognition. Having HR onboard with the changes 
+you need to make and participating with ways of structuring these programs can be helpful (although it 
+isn't unusual for HR themselves to be going through similar pains themselves)
+
+The language of the organisation needs to change and encouraging attributes 
+such as:
+1) Quality over features - Developers should focus on paying down technical debt over introducing new 
+features
+2) Services over systems - Talk about the services being delivered not the systems delivering them
+3) Impact over servers - When problems occur, discuss the impact the problems had rather than the servers
+that went down.
+
+## Summary
+There are many other activities you can undertake as you look to both develop your technical competencies
+and align them to your business. Overall it is about getting passionate people in the right roles
+evangelising for how this will make you better.
+
+
