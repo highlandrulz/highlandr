@@ -44,7 +44,7 @@ and feeding. Cloud based SaaS services can alleviate some of this but keep in mi
 people who understand your end to end service delivery. 
 
 ## Summary
-Your operations practice isn’t going away, it just looks different. Parts of it are very likely not run by you
+Your operations practice isn’t going away, how it is implemented is different. Parts of it are very likely not run by you
 anymore. If anything, it just got a whole lot more complicated.
 
 
