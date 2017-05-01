@@ -12,24 +12,24 @@ To that end I signed myself up for a course called "Strategic Management" from t
 Business on Coursera.org. 
 
 ## The goal
-My thought going into this was to gain a cleaer understanding of the current appraoch to business strategy 
+My thought going into this was to gain a clearer understanding of the current approach to business strategy 
 and to see how I might align it to my own field of DevOps strategy development.
 
 ## Results
-What I lerned was about the twin forces in Business strategy for the last 30 years consisting of Michael Porter
+What I learned was about the twin forces in Business strategy for the last 30 years consisting of Michael Porter
 and Henry Mintzberg. In the 80's Michael Porter set himself up as the master of business strategy and it is his teaching 
-that has guided and driven the MBA programs of the following decades. His philosophy focused around competative 
-advantage in the marketplacce coming from an understading of the target market and planning your approch upfront. 
-He also called out that being operationally effective would not be sufficient to succeed in a competative 
+that has guided and driven the MBA programs of the following decades. His philosophy focused around competitive 
+advantage in the marketplace coming from an understanding of the target market and planning your approach upfront. 
+He also called out that being operationally effective would not be sufficient to succeed in a competitive 
 market.
 
 Events of the subsequent decades have proved that to not be an entirely true picture and certainly within the technology 
-indeustry, being operationally effective and being able to learn from our customers then quickly modify our products to 
+industry, being operationally effective and being able to learn from our customers then quickly modify our products to 
 their needs has happened in many other industries. Honda in the mid-90's entered the US market with a motorbike that, 
-according to Michael Porter's work, should not have succeeded. However, due their ability to rapdily learn from their 
+according to Michael Porter's work, should not have succeeded. However, due their ability to rapidly learn from their 
 customers needs and modify their product to meet those needs they created a market and succeeded. 
 
 ## Summary
-I'm siding with Henry Mintzberg on this due to the clear parallels to the adoption of Agile pracices and DevOps. 
+I'm siding with Henry Mintzberg on this due to the clear parallels to the adoption of Agile practices and DevOps. 
 Supporting our businesses and enabling them to be more operationally effective is our target goal we do this through the 
 adoption of modern development practices and tools.  
