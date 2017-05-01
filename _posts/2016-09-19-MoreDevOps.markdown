@@ -16,7 +16,7 @@ My thought going into this was to gain a clearer understanding of the current ap
 and to see how I might align it to my own field of DevOps strategy development.
 
 ## Results
-What I learned was about the twin forces in Business strategy for the last 30 years consisting of Michael Porter
+One of the topics I learned about was two of the most influential thinkers in Business strategy for the last 30 years, namely Michael Porter
 and Henry Mintzberg. In the 80's Michael Porter set himself up as the master of business strategy and it is his teaching 
 that has guided and driven the MBA programs of the following decades. His philosophy focused around competitive 
 advantage in the marketplace coming from an understanding of the target market and planning your approach upfront. 
@@ -27,7 +27,7 @@ Events of the subsequent decades have proved that to not be an entirely true pic
 industry, being operationally effective and being able to learn from our customers then quickly modify our products to 
 their needs has happened in many other industries. Honda in the mid-90's entered the US market with a motorbike that, 
 according to Michael Porter's work, should not have succeeded. However, due their ability to rapidly learn from their 
-customers needs and modify their product to meet those needs they created a market and succeeded. 
+customers needs and modify their product to meet those needs they successfully created the market they needed to succeed. 
 
 ## Summary
 I'm siding with Henry Mintzberg on this due to the clear parallels to the adoption of Agile practices and DevOps. 
